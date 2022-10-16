@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @henryd0
-- 👀 I’m interested in ...  Python/SQL/Linux
+- 👀 I’m interested in ...  Python/SQL/Kali
 - 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... new projects
 - 📫 How to reach me ... from GitHub, 
